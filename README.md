@@ -2,7 +2,7 @@
 
 
 * [Lab 1: Write a program to output text to the console (or "Hello World")](https://github.com/Utshav-paudel/Dotnet-/blob/master/lab01/Program.cs)
-* [Lab 2: Implement constant in C#]((https://github.com/Utshav-paudel/Dotnet-/blob/master/lab02/lab2_constant/Program.cs)
+* [Lab 2: Implement constant in C#](https://github.com/Utshav-paudel/Dotnet-/blob/master/lab02/lab2_constant/Program.cs)
 * [Lab 3: Implement console reading and writing in C#](https://github.com/Utshav-paudel/Dotnet-/tree/master/lab03/Lab3_readingwriting_in_console/Program.cs)
 * [Lab 4: Read multiple strings from console in C#](https://github.com/Utshav-paudel/Dotnet-/tree/master/lab04/lab4_entering_multiplestring/Program.cs)
 * [Lab 5: Read and add integers in C#](https://github.com/Utshav-paudel/Dotnet-/tree/master/lab05/Lab5_takinginteger/Program.cs)
